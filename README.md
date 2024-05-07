@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**I'm Maria Zakharova** - I'm a fullstack developer, designer, and high school student.
+
 <!--
 **MariaZakharovaCoding/MariaZakharovaCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
