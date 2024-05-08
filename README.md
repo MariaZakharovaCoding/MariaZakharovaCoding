@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **I'm Maria Zakharova** - I'm a fullstack developer, designer, and high school student.
-- 🌱 I’m currently learning Yii 2
+- 🌱 I’m currently learning Yii 2 and Python.
 
 <!--
 **MariaZakharovaCoding/MariaZakharovaCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
